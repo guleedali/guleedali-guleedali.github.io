@@ -9,7 +9,7 @@ profile:
   image: guleedheadshotv3-1_BW.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>340 Earth and Space Science Building</p>
+    <p>340 Earth & Space Science Building</p>
     <p>Stony Brook University</p>
     <p>Stony Brook, NY 11794</p>
 
