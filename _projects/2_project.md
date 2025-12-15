@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conflicting Signals in North American Glacial Chronologies
+title: North American Glacial Chronologies
 description: stratigraphy + geochronology + geomorphology
 img: assets/img/SierraNevadasnow.jpg
 importance: 1
@@ -8,7 +8,7 @@ category: work
 giscus_comments: true
 ---
 
-New collaborative research group emerging. Check back in early 2026 for updates. 
+New collaborative research group emerging ceneterd on conflicting signals in glacial chronologies. Check back in early 2026 for updates. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
