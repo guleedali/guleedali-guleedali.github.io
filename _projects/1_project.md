@@ -1,12 +1,13 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Past Hydroclimate of the Western United States
+description: stratigraphy + geomorphology + geochronology
+img: assets/img/Mill Creek delta.jpg
 importance: 1
 category: work
 related_publications: true
 ---
+The formation of vast lakes in the arid basins of the western United States marks a major hydroclimatic change of the Quaternary. These lakes serve as natural rain gauges, recording dramatic fluctuations in water availability, evident from shorelines carved tens to hundreds of meters above modern valley floors
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
