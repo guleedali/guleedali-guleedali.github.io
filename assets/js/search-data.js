@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-started-new-position-as-assistant-professor-at-stony-brook-university",
-          title: 'Started new position as Assistant Professor at Stony Brook University.',
+            },},{id: "news-guleed-a-starts-new-position-as-assistant-professor-at-stony-brook-university",
+          title: 'Guleed A. starts new position as Assistant Professor at Stony Brook University.',
           description: "",
           section: "News",},{id: "news-graduate-student-opportunities",
           title: 'Graduate student opportunities',
