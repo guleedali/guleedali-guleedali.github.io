@@ -448,8 +448,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-guleed-a-presents-agu25",
-          title: 'Guleed A. presents @ AGU25',
+            },},{id: "news-layers-agu25",
+          title: 'LAYERS @ AGU25',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
