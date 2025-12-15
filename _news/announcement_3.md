@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Guleed A. presents @ AGU25 :sparkles: :smile:
+title: Guleed A. presents @ AGU25
 date: 2025-12-14 07:59:00-0400
 inline: false
 related_posts: false
