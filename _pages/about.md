@@ -28,8 +28,4 @@ latest_posts:
 ---
 In the LAYERS group, we read the geologic record like a photo album, watching time and space shift from one layer to the next. On foot, across the water, or from the air, we map, log, and correlate sediments and landforms, then stitch those snapshots into a time framework with high-precision geochronology to tell the story of how wind, water, and ice reshaped the landscape.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
