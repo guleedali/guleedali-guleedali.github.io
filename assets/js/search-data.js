@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "LAYERS frontiers.",
+          description: "What are we trying to understand?",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -417,7 +417,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-north-american-glacial-chronologies",
-          title: 'North American Glacial Chronologies',
+          title: 'North American glacial chronologies',
           description: "stratigraphy + geochronology + geomorphology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
