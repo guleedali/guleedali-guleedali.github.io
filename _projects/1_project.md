@@ -23,6 +23,3 @@ This project will map regional changes in wetness from the last glaciation throu
 
 Being in the rainshadow of western U.S. mountain ranges offers some reprieve from cool season westerly storms, often extending the field season into the early winter, even in high elevation basins such as Mono.
 
-
-</div>
-
