@@ -440,10 +440,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-started-new-position-as-assistant-professor-at-stony-brook-university",
+            },},{id: "news-started-new-position-as-assistant-professor-at-stony-brook-university",
           title: 'Started new position as Assistant Professor at Stony Brook University.',
           description: "",
           section: "News",},{id: "news-graduate-student-opportunities",
@@ -451,7 +448,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
+            },},{id: "news-guleed-ali-presents-on-cordilleran-ice-sheet-agu25-sparkles-smile",
+          title: 'Guleed Ali presents on Cordilleran Ice Sheet @ AGU25 :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
