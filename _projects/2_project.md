@@ -1,6 +1,6 @@
 ---
 layout: page
-title: North American glacial chronologies
+title: The rise and fall of ice across North America
 description: stratigraphy + geochronology + geomorphology
 img: assets/img/SierraNevadasnow.jpg
 importance: 1
@@ -8,7 +8,7 @@ category: active
 giscus_comments: false
 ---
 
-New collaborative research group emerging centered on conflicting signals in glacial chronologies. Check back in early 2026 for updates. 
+When did ice really cover North America? New collaborative research group emerging centered on conflicting signals in glacial chronologies. Check back in early 2026 for updates. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
