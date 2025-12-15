@@ -11,40 +11,14 @@ The formation of vast lakes in the arid basins of the western United States mark
 
 This project will map regional changes in wetness from the last glaciation through the present  interglaciation (about 70,000 years ago to present). Students will use sedimentology and stratigraphy with geochronologic tools to reconstruct when lake levels rose and fell, and to test whether these shifts happened gradually or suddenly. This work is anchored in field campaigns and mapping. Other complementary avenues using remote sensing and GIS can match a range of intersts and access needs. 
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/Mill Creek delta.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/WilsonCreektype.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    The Wilson Creek Formation: the Late Pleistocene lithostratigraphic unit of the Mono Basin, California. Outreached arm points to the MIS 5-4 boundary--i.e., the start of the last glaciation. See Ali et al. (2022) _GSAB_. 
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
