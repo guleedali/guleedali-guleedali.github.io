@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started new position as Assistant Professor at Stony Brook University.
+Guleed A. starts new position as Assistant Professor at Stony Brook University.
