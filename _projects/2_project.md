@@ -1,14 +1,14 @@
 ---
 layout: page
-title: The rise and fall of ice across North America
-description: stratigraphy + geochronology + geomorphology
-img: assets/img/SierraNevadasnow.jpg
+title: Ice Age Puzzle: When Ice Sheets Broke the Rules
+description: stratigraphy + geochronology + glacial geomorphology
+img: assets/img/Malaspina.jpg
 importance: 1
 category: active
 giscus_comments: false
 ---
 
-When did ice really cover North America? New collaborative research group emerging centered on conflicting signals in glacial chronologies. Check back in early 2026 for updates. 
+When did ice really cover North America? We are building a new collaborative effort centered on conflicting signals in glacial chronologies. Check back in mid-2026 for updates. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
