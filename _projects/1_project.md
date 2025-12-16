@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hydroclimate of the Western United States
+title:  Lakes as Rain Gauges
 description: stratigraphy + geomorphology + geochronology
 img: assets/img/Bonnevilleshorelines.jpg
 importance: 1
