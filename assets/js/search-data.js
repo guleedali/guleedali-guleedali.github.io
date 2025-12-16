@@ -101,13 +101,6 @@ ninja.data = [{
           window.open("mailto:%67%75%6C%65%65%64.%61%6C%69@%73%74%6F%6E%79%62%72%6F%6F%6B.%65%64%75", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
@@ -134,6 +127,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=jm7O1P0AAAAJ", "_blank");
+        },
+      },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.stonybrook.edu/commcms/geosciences/people/_faculty/ali.php", "_blank");
         },
       },{
       id: 'light-theme',
