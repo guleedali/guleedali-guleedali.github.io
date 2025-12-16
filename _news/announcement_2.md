@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Graduate student opportunities
+title: Open PhD positions
 date: 2025-11-01 16:11:00-0400
 inline: false
 related_posts: false
