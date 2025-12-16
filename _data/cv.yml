@@ -25,15 +25,15 @@
   type: time_table
   contents:
     - title: Assistant Professor
-      institution: Department of Geosciences, Stonybrook University
+      institution: Department of Geosciences, Stonybrook University, USA.
       year: 2025 - current
       
     - title: IDEA Fellow Sustainable Climate Justice and Solutions
-      institution: Stony Brook University
+      institution: Department of Geosciences, Stony Brook University, USA.
       year: 2023 – 2025
       
     - title: Postdoctoral Researcher
-      institution: Berkeley Geochronology Center, Berkeley, California, USA.
+      institution: Berkeley Geochronology Center, USA.
       year: 2022 – 2023
 
     - title: Research Fellow
@@ -42,7 +42,7 @@
       description:
 
     - title: Ford Postdoctoral Fellow
-      institution: University of Maine, USA
+      institution: School of Earth and Climate Sciences, University of Maine, USA
       year: 2018 - 2019
 
 - title: Select Honors and Awards
