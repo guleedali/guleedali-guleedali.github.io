@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-The Landscape Archives and Earth Systems (LAYERS) Group is recruiting. We are a new research group in the Department of Geosciences, Stony Brook University, working in partnership with the FIRST Lab (PI: Dr. Troy Rasbury).  
+The Landscape Archives and Earth Systems (LAYERS) Group is recruiting. We are a new research group in the Department of Geosciences, Stony Brook University, working in partnership with the FIRST Lab (PI: Dr. Troy Rasbury), which provides high quality isotopic analyses using state-of-the-art mass spectrometry. Through collaborations with scientists at Brookhaven National Laboratory's National Synchrotron Light Source II, students may also gain acccess to a national user research facility with exceptional analytical capabilities.  
 
 
 
@@ -25,4 +25,9 @@ We are recruiting graduate students to join a research program focused on:
 5. The interplay between tectonics, volcanism, and climate
 
 These themes reflect current directions, not the limits of where we can go. Students are encouraged to explore, bring their own questions, and help shape new research directions for the group.
+
+Interested applicants should apply through the Stony Brook Geosciences portal by January 15. Prospective students are welcome to email with questions and their scientific interests. I am happy to meet virtually, and I can also meet in person at the AGU Annual Meeting in New Orleans.
+
+Guleed Ali (guleed.ali@stonybrook.edu). 
+
 
