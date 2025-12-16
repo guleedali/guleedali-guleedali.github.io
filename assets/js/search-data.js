@@ -48,7 +48,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-when-ice-sheets-broke-the-rules",
           title: 'When Ice Sheets Broke the Rules',
-          description: "stratigraphy + geochronology + glacial geomorphology",
+          description: "stratigraphy + geochronology + geomorphology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
